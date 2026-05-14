@@ -8,9 +8,10 @@ namespace C_Sharp2026
 {
     internal class HogeHoge
     {
+        /*
         private static void Main(string[] args)
         {
-            /*
+            
             Console.WriteLine("名前を入力してください");
             string name = Console.ReadLine();
             Console.WriteLine("私の名前は{0}です。", name);
@@ -21,7 +22,7 @@ namespace C_Sharp2026
 
             int c = a + b;
             Console.WriteLine("{0} + {1} = {2}", a, b, c);
-            */
+            //
             Console.WriteLine("自身の体重を入力してください");
             int weight = int.Parse(Console.ReadLine());
             
@@ -35,5 +36,6 @@ namespace C_Sharp2026
 
 
         }
+        */
     }
 }
