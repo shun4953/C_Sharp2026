@@ -9,8 +9,8 @@ namespace C_Sharp2026
     internal class IfProcess
     {
         //
-        private static void Main(string[] args)
-        {
+       // private static void Main(string[] args)
+       // {
             //Console.WriteLine("数値を入力してください");
             //int input = int.Parse(Console.ReadLine());
             /*
@@ -98,7 +98,7 @@ namespace C_Sharp2026
                 Console.WriteLine("あなたはかなり肥満(肥満４度)です。");
             }
 
-            */
+            //
             //問題２
             
             
@@ -135,5 +135,6 @@ namespace C_Sharp2026
                 }
             }
         }
+        */
     }
 }
