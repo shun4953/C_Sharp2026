@@ -8,11 +8,11 @@ namespace C_Sharp2026
 {
     internal class IfAndArrayreview
     {
-        //
+        /*
         private static void Main(string[] args)
         {
             //問題１
-            /*
+            //
             Console.WriteLine("数を入力してください");
 
             int input = int.Parse(Console.ReadLine());
@@ -122,7 +122,7 @@ namespace C_Sharp2026
             }
 
             Console.WriteLine();
-            */
+            //
             //問題６
 
             int[] arrayC = new int[7] { 1, 2, 3, 4, 5, 6, 7 };
@@ -134,6 +134,6 @@ namespace C_Sharp2026
             Console.WriteLine("{0}、{1}、{2}、{3}、{4}、{5}、{6}、{7}", arrayC[0], arrayC[1], arrayC[2], arrayC[3], arrayC[4], arrayC[5], arrayC[6], arrayC[7]);
 
         }
-        
+        */
     }
 }
