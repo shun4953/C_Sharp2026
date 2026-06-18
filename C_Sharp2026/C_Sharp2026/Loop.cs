@@ -8,10 +8,10 @@ namespace C_Sharp2026
 {
     internal class Loop
     {
-        //
+        /*
         private static void Main(string[] arts)
         {
-            /*
+            //
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("iを出力：{0}", i);
@@ -171,7 +171,7 @@ namespace C_Sharp2026
 
                     //Console.WriteLine();
                 }
-            */
+            //
 
             //問題６
             Console.WriteLine("問題６");
@@ -216,5 +216,6 @@ namespace C_Sharp2026
             }
         Console.WriteLine("素数の総数は{0}です",testcount);
         }
+        */
     }
 }
