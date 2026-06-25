@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
-    //
+    /*
     internal class LoopReview
     {
         private static void Main(string[] args)
         {
-            /*
+            //
             
             //問題１
             Console.WriteLine("問題１");
@@ -155,7 +155,7 @@ namespace C_Sharp2026
 
             Console.WriteLine();
 
-            */
+            //
 
             //問題６
             Console.WriteLine("問題６");
@@ -181,5 +181,5 @@ namespace C_Sharp2026
             }
         }
     }
-    //
+    */
 }
