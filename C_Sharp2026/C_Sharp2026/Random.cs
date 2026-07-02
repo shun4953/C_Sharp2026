@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
-    //
+    /*
     internal class RandomClass
     {
         private static void Main(string[] args)
@@ -64,7 +64,7 @@ namespace C_Sharp2026
             }
             Console.WriteLine();
 
-            */
+            //
 
             //問題２
             Console.WriteLine("問題２");
@@ -116,4 +116,5 @@ namespace C_Sharp2026
             Console.WriteLine("正解は{0}でした", answer);
         }
     }
+    */
 }
