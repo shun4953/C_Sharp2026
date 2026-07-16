@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
-    //
+    /*
     internal class ForAndIfReview
     {
         private static void Main(string[] args)
@@ -130,4 +130,5 @@ namespace C_Sharp2026
             }
         }
     }
+    */
 }
