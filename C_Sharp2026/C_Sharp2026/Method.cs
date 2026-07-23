@@ -187,18 +187,25 @@ namespace C_Sharp2026
 
             string shapes = Console.ReadLine();
 
+            //もし入力された文字がsなら
             if (shapes == "s")
             {
-
+                //四角形を計算するメソッドへ移動する
+                RectangleArea();
             }
+            //もし入力された文字がtなら
             else if (shapes == "t")
             {
-
+                //三角形を計算するメソッドへ移動する
+                TriangleArea();
             }
+            //もし入力された文字がcなら
             else if(shapes == "c")
             {
-
+                //円形を計算するメソッドへ移動する
+                CircleArea();
             }
+            //もし三つの条件が当てはまらないのなら表示する
             else
             {
                 Console.WriteLine("不正な文字列です");
@@ -209,37 +216,57 @@ namespace C_Sharp2026
 
         private static float InputNumberArea()
         {
+            //入力された数値
             float number = 0;
 
             if (float.TryParse(Console.ReadLine(), out number))
             {
+                //入力された数値を出力する
                 return number;
             }
 
+            //何も入力されなかったら数値を０と出力する
             return 0.0f;
         }
 
         private static void RectangleArea()
         {
-            Console.WriteLine("縦の長さはどのくらいですか");
+            Console.WriteLine("四角形の縦の長さはどのくらいですか");
 
+            //四角形の縦の長さの値
             float vertical = InputNumberArea();
 
-            Console.WriteLine("横の長さはどのくらいですか？");
+            Console.WriteLine("四角形の横の長さはどのくらいですか？");
 
+            //四角形の横の長さの値
              float width = InputNumberArea();
 
             Console.WriteLine("正方形の面積は{0}でした", vertical * width);
         }
 
-        private static void triangleArea()
+        private static void TriangleArea()
         {
-            Console.WriteLine("三角形の底辺はどれくらいの長さですか？");
+            Console.WriteLine("三角形の底辺はどのくらいの長さですか？");
 
+            //三角形の底辺の長さの値
             float bottom = InputNumberArea();
 
-            
+            Console.WriteLine("三角形の高さはどのくらいですか？");
 
+            //三角形の高さの値
+            float height = InputNumberArea();
+
+            Console.WriteLine("三角形の面積は{0}でした", (bottom * height) / 2);
+        }
+
+        private static void CircleArea()
+        {
+            Console.WriteLine("円形の半径の長さはどのくらいですか");
+
+        　　//円形の半径の値
+            float radius = InputNumberArea();
+
+            Console.WriteLine("円形の面積は{0}でした", radius * radius * 3.14);
         }
     }
 }
