@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
-    //
+    /*
     internal class AllReview
     {
         private static void Main(string[] args)
         {
-            /*
+            //
 
             //問題１
             Console.WriteLine("問題１");
@@ -181,7 +181,7 @@ namespace C_Sharp2026
 
             Console.WriteLine("一番大きい数：{0}　一番小さい数：{1}", big_number, small_number);
 
-            */
+            //
 
             //メモ２
             //数の範囲は０を含めた２０１種類だと思われる
@@ -222,5 +222,5 @@ namespace C_Sharp2026
             }
         }
     }
-    //
+    */
 }
