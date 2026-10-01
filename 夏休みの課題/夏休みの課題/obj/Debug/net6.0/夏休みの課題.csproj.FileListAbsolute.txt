@@ -1,0 +1,15 @@
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\bin\Debug\net6.0\夏休みの課題.exe
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\bin\Debug\net6.0\夏休みの課題.deps.json
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\bin\Debug\net6.0\夏休みの課題.runtimeconfig.json
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\bin\Debug\net6.0\夏休みの課題.dll
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\bin\Debug\net6.0\夏休みの課題.pdb
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.csproj.AssemblyReference.cache
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.AssemblyInfoInputs.cache
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.AssemblyInfo.cs
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.csproj.CoreCompileInputs.cache
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.dll
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\refint\夏休みの課題.dll
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.pdb
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\夏休みの課題.genruntimeconfig.cache
+C:\Users\262j011\Documents\C_Sharp2026\夏休みの課題\夏休みの課題\obj\Debug\net6.0\ref\夏休みの課題.dll
