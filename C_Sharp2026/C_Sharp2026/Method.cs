@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
-    //
+    /*
     internal class Method
     {
         private static void Main(string[] args)
         {
-            /*
+            //
 
             Console.WriteLine("体重[kg]を入力してください");
             float weight = GetInputNumber();//floatになっている
@@ -67,7 +67,7 @@ namespace C_Sharp2026
                 }
             }
 
-            */
+            //
 
             //問題４
             Console.WriteLine("問題４");
@@ -269,4 +269,5 @@ namespace C_Sharp2026
             Console.WriteLine("円形の面積は{0}でした", radius * radius * 3.14);
         }
     }
+    */
 }
