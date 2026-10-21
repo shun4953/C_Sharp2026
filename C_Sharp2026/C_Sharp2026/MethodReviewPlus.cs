@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
-    //
+    /*
     internal class MethodReviewPlus
     {
         private static void Main(string[] args)
@@ -40,7 +40,7 @@ namespace C_Sharp2026
 
             Console.WriteLine();
 
-            */
+            //
 
             //問題４
             Console.WriteLine("問題４");
@@ -231,5 +231,5 @@ namespace C_Sharp2026
             return true;
         }
     }
-    //
+    */
 }
