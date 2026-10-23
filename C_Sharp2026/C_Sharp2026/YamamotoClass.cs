@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
+    /*
     internal class YamamotoClase
     {
         //名前
@@ -127,4 +128,6 @@ namespace C_Sharp2026
             futureDreams = myFutureDreams;
         }
     }
+
+    */
 }

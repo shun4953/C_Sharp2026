@@ -32,7 +32,39 @@ namespace C_Sharp2026
 
             */
 
+            //ここからクラスの復習
 
+            //問題１
+            Console.WriteLine("問題１");
+
+            Human human = new Human(163,59,18,100);
+
+            human.DisplayBodyInfo();
+
+            Console.WriteLine();
+
+            //問題２
+            Console.WriteLine("問題２");
+
+            human.DisplayAge();
+
+            human.GettingOlder();
+
+            human.DisplayAge();
+
+            Console.WriteLine();
+
+            //問題３
+            Console.WriteLine("問題３");
+
+            human.CheckBMI();
+
+            Console.WriteLine();
+
+            //問題４
+            Console.WriteLine("問題４");
+
+            human.MoveTime();
         }
     }
 }
