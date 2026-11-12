@@ -10,13 +10,15 @@ namespace C_Sharp2026
     internal class BaseCar
     {
         //車の名前
-        private string name = "";
+        protected string name = "";
 
         //最大時速
         private float maxSpeed = 0.0f;
 
         //車の色
         private string color = "";
+
+        /*
 
         //車が走っているかどうか
         private bool isDrive = false;
@@ -36,27 +38,33 @@ namespace C_Sharp2026
         //車のガソリンの残量
         private float gasolineFuelLevel = 0.0f;
 
+        */
+
         /// <summary>
         /// コンストラクタ
         /// </summary>
         public BaseCar
               (string carName,
                float carMaxSpeed,
-               string carColor,
+               string carColor)
+               /*
                bool isCarDrive,
                float carHorsePower,
                string carBodySize,
                string carGasolineKind,
                int carWeight,
                float carGasolineFuelLevel)
-        {
-            Console.WriteLine("オブジェクトの生成に成功しました");
+               */
+               {
+            //Console.WriteLine("オブジェクトの生成に成功しました");
 
             name = carName;
 
             maxSpeed = carMaxSpeed;
 
             color = carColor;
+
+            /*
 
             isDrive = isCarDrive;
 
@@ -82,15 +90,20 @@ namespace C_Sharp2026
                 //０％にする
                 gasolineFuelLevel = 0.0f;
             }
+
+            */
+
         }
 
-        public void CarExplanation()
+        public virtual void CarExplanation()
         {
             Console.WriteLine("この車の名前は{0}です。", name);
 
             Console.WriteLine("この車の最大スピードは{0}です。", maxSpeed);
 
             Console.WriteLine("この車の色は{0}です。", color);
+
+            /*
 
             if (isDrive == true)
             {
@@ -108,8 +121,11 @@ namespace C_Sharp2026
             Console.WriteLine("この車の燃料の種類は{0}です。", gasolineKind);
 
             Console.WriteLine("この車の重さは{0}です。", Weight);
-        }
-
+        
+            */
+            
+            }
+        /*
         /// <summary>
         /// ガソリンの残量を表示するメソッド
         /// </summary>
@@ -117,6 +133,8 @@ namespace C_Sharp2026
         {
             Console.WriteLine("この車のガソリン残量は{0}です。",gasolineFuelLevel);
         }
+
+        //
 
         /// <summary>
         /// ガソリンの残量を入れるメソッド
@@ -126,6 +144,8 @@ namespace C_Sharp2026
         {
             return gasolineFuelLevel + "%";
         }
+
+        */
     }
     //
 }
