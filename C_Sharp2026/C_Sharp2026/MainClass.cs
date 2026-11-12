@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace C_Sharp2026
 {
+    /*
     internal class MainClass
     {
         private static void Main(string[] args)
         {
-            /*
+            //
 
             BaseCar basecar = new BaseCar
                                  ("トヨタ",
@@ -30,7 +31,7 @@ namespace C_Sharp2026
             //ガソリンの残量を表示する
             Console.WriteLine("この車のガソリン残量は{0}です。", basecar.GetGasolineRemaining());
 
-            */
+            //
 
             //ここからクラスの復習
 
@@ -67,4 +68,5 @@ namespace C_Sharp2026
             human.MoveTime();
         }
     }
+    */
 }
