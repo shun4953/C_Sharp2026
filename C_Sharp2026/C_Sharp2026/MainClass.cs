@@ -11,7 +11,7 @@ namespace C_Sharp2026
     {
         private static void Main(string[] args)
         {
-            /*
+            //
 
             BaseCar basecar = new BaseCar
                                  ("トヨタ",
